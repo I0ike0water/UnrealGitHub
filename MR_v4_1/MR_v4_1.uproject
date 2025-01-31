@@ -54,6 +54,14 @@
 			"SupportedTargetPlatforms": [
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
