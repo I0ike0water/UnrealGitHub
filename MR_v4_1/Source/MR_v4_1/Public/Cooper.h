@@ -24,13 +24,4 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeWingSpan(float wingspan, USkeletalMeshComponent* skeletalMesh);
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeLegs(float height, float sittingHeight, USkeletalMeshComponent* skeletalMesh);
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeTorso(float height, float sittingHeight, USkeletalMeshComponent* skeletalMesh);
 };
