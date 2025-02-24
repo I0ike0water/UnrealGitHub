@@ -71,6 +71,7 @@ template<> MR_V4_1_API UClass* StaticClass<ACooper>()
 {
 	return ACooper::StaticClass();
 }
+ACooper::ACooper(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer) {}
 DEFINE_VTABLE_PTR_HELPER_CTOR(ACooper);
 ACooper::~ACooper() {}
 // End Class ACooper

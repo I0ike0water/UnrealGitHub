@@ -10,9 +10,4 @@ UCLASS()
 class MR_V4_1_API ACooper : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
-	// Sets default values for this actor's properties
-	ACooper();
-
 };
