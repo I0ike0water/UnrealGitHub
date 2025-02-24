@@ -11,6 +11,8 @@
     <None Include="..\..\Source\MR_v4_1Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Scanned3DPeoplePack.png" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -50,10 +52,16 @@
     <ClCompile Include="..\..\Source\MR_v4_1\Private\Cooper.cpp">
       <Filter>Source\MR_v4_1\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\MR_v4_1\Private\SendFile.cpp">
+      <Filter>Source\MR_v4_1\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\MR_v4_1\Public">
       <UniqueIdentifier>{0902EC34-6632-39D6-9509-ABEDF92FB098}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\MR_v4_1\Public\Cooper.h">
+      <Filter>Source\MR_v4_1\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MR_v4_1\Public\SendFile.h">
       <Filter>Source\MR_v4_1\Public</Filter>
     </ClInclude>
   </ItemGroup>

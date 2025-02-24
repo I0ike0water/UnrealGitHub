@@ -14,23 +14,4 @@ class MR_V4_1_API ACooper : public AActor
 public:	
 	// Sets default values for this actor's properties
 	ACooper();
-
-	float currentHeight;
-
-protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeWingSpan(float wingspan, USkeletalMeshComponent* skeletalMesh);
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeLegs(float height, float sittingHeight, USkeletalMeshComponent* skeletalMesh);
-
-	UFUNCTION(BlueprintCallable)
-	void ChangeTorso(float height, float sittingHeight, USkeletalMeshComponent* skeletalMesh);
 };

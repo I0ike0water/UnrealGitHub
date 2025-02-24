@@ -9,17 +9,10 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
-class USkeletalMeshComponent;
 #ifdef MR_V4_1_Cooper_generated_h
 #error "Cooper.generated.h already included, missing '#pragma once' in Cooper.h"
 #endif
 #define MR_V4_1_Cooper_generated_h
-
-#define FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	DECLARE_FUNCTION(execChangeTorso); \
-	DECLARE_FUNCTION(execChangeLegs); \
-	DECLARE_FUNCTION(execChangeWingSpan);
-
 
 #define FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_INCLASS_NO_PURE_DECLS \
 private: \
@@ -46,7 +39,6 @@ public: \
 #define FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
 	FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_INCLASS_NO_PURE_DECLS \
 	FID_Users_ETRI_Documents_UnrealGitHub_MR_v4_1_Source_MR_v4_1_Public_Cooper_h_12_ENHANCED_CONSTRUCTORS \
 private: \
