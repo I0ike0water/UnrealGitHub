@@ -275,10 +275,18 @@
     <ClCompile Include="..\..\Source\MR_v4_1\Private\Cooper.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
+    <ClCompile Include="..\..\Source\MR_v4_1\Private\FileSend.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MR_v4_1\Private\Send.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
     <ClCompile Include="..\..\Source\MR_v4_1\Private\SendFile.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <ClInclude Include="..\..\Source\MR_v4_1\Public\Cooper.h"/>
+    <ClInclude Include="..\..\Source\MR_v4_1\Public\FileSend.h"/>
+    <ClInclude Include="..\..\Source\MR_v4_1\Public\Send.h"/>
     <ClInclude Include="..\..\Source\MR_v4_1\Public\SendFile.h"/>
   </ItemGroup>
   <PropertyGroup>
