@@ -8,8 +8,15 @@
 /NODEFAULTLIB
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\MR_v4_1Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\Cooper.gen.cpp.obj"
+"C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\FileSend.gen.cpp.obj"
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\MR_v4_1.init.gen.cpp.obj"
+"C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\SendFile.gen.cpp.obj"
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\MR_v4_1.cpp.obj"
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\Cooper.cpp.obj"
+<<<<<<< HEAD
+"C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\SendFile.cpp.obj"
+=======
+"C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\FileSend.cpp.obj"
+>>>>>>> 825966496a4f1f85d1065950171fe3b07c3d8a29
 "C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\Default.rc2.res"
 /OUT:"C:\Users\ETRI\Documents\UnrealGitHub\MR_v4_1\Intermediate\Build\Win64\x64\UnrealEditor\Development\MR_v4_1\UnrealEditor-MR_v4_1.lib"

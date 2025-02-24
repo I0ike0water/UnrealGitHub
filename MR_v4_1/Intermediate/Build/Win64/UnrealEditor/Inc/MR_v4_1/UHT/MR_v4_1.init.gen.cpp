@@ -17,22 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeMR_v4_1_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-<<<<<<< HEAD
-				0x22A51214,
-				0x0EACFF71,
-=======
-				0x0BAA0E5F,
-				0xA8144B8B,
->>>>>>> 825966496a4f1f85d1065950171fe3b07c3d8a29
+				0x10C42600,
+				0x9F1C45A7,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_MR_v4_1.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_MR_v4_1.OuterSingleton;
 	}
-<<<<<<< HEAD
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MR_v4_1(Z_Construct_UPackage__Script_MR_v4_1, TEXT("/Script/MR_v4_1"), Z_Registration_Info_UPackage__Script_MR_v4_1, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x22A51214, 0x0EACFF71));
-=======
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MR_v4_1(Z_Construct_UPackage__Script_MR_v4_1, TEXT("/Script/MR_v4_1"), Z_Registration_Info_UPackage__Script_MR_v4_1, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0BAA0E5F, 0xA8144B8B));
->>>>>>> 825966496a4f1f85d1065950171fe3b07c3d8a29
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MR_v4_1(Z_Construct_UPackage__Script_MR_v4_1, TEXT("/Script/MR_v4_1"), Z_Registration_Info_UPackage__Script_MR_v4_1, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x10C42600, 0x9F1C45A7));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
