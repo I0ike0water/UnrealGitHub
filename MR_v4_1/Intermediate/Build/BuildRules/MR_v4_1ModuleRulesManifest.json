@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ETRI\\Documents\\UnrealGitHub\\MR_v4_1\\Source\\MR_v4_1\\MR_v4_1.Build.cs",
+		"C:\\Users\\ETRI\\Documents\\UnrealGitHub\\MR_v4_1\\Source\\MR_v4_1.Target.cs",
+		"C:\\Users\\ETRI\\Documents\\UnrealGitHub\\MR_v4_1\\Source\\MR_v4_1Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
